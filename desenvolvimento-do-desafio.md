@@ -1,6 +1,36 @@
 ## Prompt no ChatGPT:
-### gere um texto em linguagem markdown: gere uma resposta ao desafio "Criando um validador de bandeiras de cartão de credito usando o Github copilot". Gere a estrutura da arvore de pastas e arquivos necessários para executar o projeto de um aplicativo . Utilize o React para o frontend e o Node.js para desenvolver a API (Backend). Explique detalhadamente, como se fosse um professor especializado em desenvolvimento Full Stack, como criar a estrutura do código, cada arquivo necessário em ordem cronológica de desenvolvimento, como funciona o mecanismo do aplicativo quando estiver pronto, através do prompt do power shell. Explique tambem como armazenar a aplicação (Frontend e o backend) em um servidor remoto e como o usuário poderá utilizar este aplicativo na prática, dando um exemplo real desta aplicação.
+### Claro! Aqui está o **prompt otimizado, claro e estruturado**, para que uma ferramenta de LLM compreenda e gere uma resposta organizada, completa e profissional:
 
+---
+
+**Prompt otimizado:**
+
+> Gere um texto em linguagem **Markdown** respondendo ao desafio:
+>
+> **"Criando um validador de bandeiras de cartão de crédito usando o GitHub Copilot"**.
+>
+> O texto deve conter:
+>
+> 1. **A estrutura completa da árvore de pastas e arquivos** necessários para o projeto de um aplicativo **Full Stack**, utilizando **React no frontend** e **Node.js no backend (API)**.
+>
+> 2. **Uma explicação detalhada, didática e cronológica**, como se fosse um **professor especializado em desenvolvimento Full Stack**, descrevendo:
+>
+>    * Como criar a estrutura do código;
+>    * A função de cada arquivo/pasta;
+>    * A ordem das etapas de desenvolvimento;
+>    * Os comandos utilizados no terminal (PowerShell) para executar cada etapa.
+>
+> 3. Uma explicação de **como o mecanismo do aplicativo funciona após pronto**, incluindo o fluxo entre frontend e backend.
+>
+> 4. Uma explicação de **como armazenar (hospedar) o frontend e o backend em um servidor remoto**, com possíveis serviços de deploy e configuração.
+>
+> 5. Um exemplo prático de **como o usuário final utilizará o aplicativo no dia a dia**.
+>
+> O texto deve ser **profissional, organizado e completo**, seguindo **boas práticas de desenvolvimento** e com uma linguagem **clara e acessível para estudantes e desenvolvedores iniciantes ou intermediários**.
+
+---
+
+# Resposta gerada pelo CHATGPT:
 Claro! Aqui está o **texto em linguagem Markdown** explicando de forma didática e detalhada como criar o projeto de um **validador de bandeiras de cartão de crédito usando React no frontend e Node.js no backend**.
 
 ---
