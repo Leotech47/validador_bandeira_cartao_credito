@@ -1,7 +1,4 @@
 ## Prompt no ChatGPT:
-### Claro! Aqui está o **prompt otimizado, claro e estruturado**, para que uma ferramenta de LLM compreenda e gere uma resposta organizada, completa e profissional:
-
----
 
 **Prompt otimizado:**
 
